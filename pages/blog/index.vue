@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import PostPreview from "../components/Blog/PostPreview";
+import PostPreview from "../../components/Blog/PostPreview";
 
 export default {
   components: {
